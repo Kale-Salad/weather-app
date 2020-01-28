@@ -1,0 +1,46 @@
+{
+  "_from": "cordova-plugin-compat@^1.1.0",
+  "_id": "cordova-plugin-compat@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-C8ZXVyduvZIMASzpIOJ0F3V2Nz4=",
+  "_location": "/cordova-plugin-compat",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-compat@^1.1.0",
+    "name": "cordova-plugin-compat",
+    "escapedName": "cordova-plugin-compat",
+    "rawSpec": "^1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.1.0"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-compat/-/cordova-plugin-compat-1.2.0.tgz",
+  "_shasum": "0bc65757276ebd920c012ce920e274177576373e",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-compat@^1.1.0",
+  "_where": "P:\\MOBILE APP DEV\\PhoneGap Projects\\html",
+  "bin": null,
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "devDependencies": {},
+  "engines": {
+    "cordovaDependencies": {
+      "<1.2.0": {
+        "cordova": ">=5.0.0"
+      },
+      ">=1.2.0": {
+        "cordova": ">=5.0.0",
+        "cordova-android": "<6.3.0"
+      }
+    }
+  },
+  "name": "cordova-plugin-compat",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "version": "1.2.0"
+}

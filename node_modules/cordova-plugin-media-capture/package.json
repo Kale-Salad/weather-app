@@ -1,0 +1,45 @@
+{
+  "_from": "cordova-plugin-media-capture@~1.4.3",
+  "_id": "cordova-plugin-media-capture@1.4.3",
+  "_inBundle": false,
+  "_integrity": "sha1-IOO74zT7uJ9iSwIYjqxTcnQ5IPo=",
+  "_location": "/cordova-plugin-media-capture",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-media-capture@~1.4.3",
+    "name": "cordova-plugin-media-capture",
+    "escapedName": "cordova-plugin-media-capture",
+    "rawSpec": "~1.4.3",
+    "saveSpec": null,
+    "fetchSpec": "~1.4.3"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-media-capture/-/cordova-plugin-media-capture-1.4.3.tgz",
+  "_shasum": "20e3bbe334fbb89f624b02188eac5372743920fa",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-media-capture@~1.4.3",
+  "_where": "P:\\MOBILE APP DEV\\PhoneGap Projects\\html",
+  "bin": null,
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "name": "cordova-plugin-media-capture",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "version": "1.4.3"
+}

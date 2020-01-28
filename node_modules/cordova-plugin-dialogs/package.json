@@ -1,0 +1,51 @@
+{
+  "_from": "cordova-plugin-dialogs@~1.3.3",
+  "_id": "cordova-plugin-dialogs@1.3.4",
+  "_inBundle": false,
+  "_integrity": "sha1-XMlm7nyZsvW1s934SQAmKLDacVc=",
+  "_location": "/cordova-plugin-dialogs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-dialogs@~1.3.3",
+    "name": "cordova-plugin-dialogs",
+    "escapedName": "cordova-plugin-dialogs",
+    "rawSpec": "~1.3.3",
+    "saveSpec": null,
+    "fetchSpec": "~1.3.3"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-dialogs/-/cordova-plugin-dialogs-1.3.4.tgz",
+  "_shasum": "5cc966ee7c99b2f5b5b3ddf849002628b0da7157",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-dialogs@~1.3.3",
+  "_where": "P:\\MOBILE APP DEV\\PhoneGap Projects\\html",
+  "bin": null,
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-semistandard": "^11.0.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^5.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "name": "cordova-plugin-dialogs",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "version": "1.3.4"
+}

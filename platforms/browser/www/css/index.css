@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box; 
+   
+    
+}
+
+
+body {
+    margin: 0; 
+    background: azure; 
+}
+
+
+.app {
+    text-align: center;
+   font-family: 'Open Sans', sans-serif;
+    text-decoration-color: dimgrey; 
+    
+}
+
+.location {
+    min-height: 5vh;
+    background: azure; 
+    font-size: 50px; 
+   
+    
+}
+
+.current-temp {
+    min-height: 10vh;
+    padding: 5vh;
+    background: floralwhite;
+    font-size: 60px; 
+}
+
+.temp-range {
+    min-height: 1vh;
+    padding: 5vh;
+    background: lavenderblush;
+    font-size: 40px; 
+}
+
+.description {
+    height: 10vh;
+    padding: 3vh 0; 
+    background: lavender;
+    font-size: 45px; 
+    
+    
+}
+
+.grid {
+    height: 20vh;
+    padding: 5vh 0; 
+    background: azure;
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+}
